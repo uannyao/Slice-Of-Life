@@ -1,0 +1,29 @@
+{
+       "Household Members": [
+              {
+                     "skills": [{
+                            "level": 10,
+                            "name": "gaming"
+                     }],
+                     "relationships": [{
+                            "level": 10,
+                            "name": "friendship"
+                     }],
+                     "name": "j",
+                     "age": 7
+              },
+              {
+                     "skills": [{
+                            "level": 10,
+                            "name": "dancing"
+                     }],
+                     "relationships": [{
+                            "level": 10,
+                            "name": "boyfriend"
+                     }],
+                     "name": "y",
+                     "age": 15
+              }
+       ],
+       "save": "MY CURRENT HOUSEHOLD"
+}

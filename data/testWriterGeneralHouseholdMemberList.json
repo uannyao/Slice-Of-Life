@@ -1,0 +1,29 @@
+{
+       "Household Members": [
+              {
+                     "skills": [{
+                            "level": 4,
+                            "name": "fitness"
+                     }],
+                     "relationships": [{
+                            "level": 1,
+                            "name": "boyfriend"
+                     }],
+                     "name": "firstMember",
+                     "age": 19
+              },
+              {
+                     "skills": [{
+                            "level": 6,
+                            "name": "painting"
+                     }],
+                     "relationships": [{
+                            "level": 7,
+                            "name": "spouse"
+                     }],
+                     "name": "secondMember",
+                     "age": 20
+              }
+       ],
+       "save": "MY CURRENT HOUSEHOLD"
+}
